@@ -1,4 +1,4 @@
-export default function Dashboard() {
+import default function Dashboard() {
   return (
     <div className="min-h-screen bg-background text-white flex items-center justify-center">
       <div className="text-center">
